@@ -10,7 +10,7 @@
 
 ### Day 1: January 04, 2021
 
-**Today's Progress**: Study course cs50w 
+**Today's Progress**: Study course cs50w - html/css section. 
 
 **Thoughts:** I feel like I am slowly getting better at it because practicing with VIM.
 
