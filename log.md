@@ -16,4 +16,13 @@
 
 **Link to work:** [Edx](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/block-v1:HarvardX+CS50W+Web+type@sequential+block@2adc64be866f4d8e99eaf5910ba40f7)
 
+### Day 2: January 05, 2021
+
+**Today's Progress**: Study course cs50w - finished html/css section. 
+
+**Thoughts:** I feel happy 
+
+**Link to work:** [Edx](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/block-v1:HarvardX+CS50W+Web+type@sequential+block@2adc64be866f4d8e99eaf5910ba40f7)
+
+
 
